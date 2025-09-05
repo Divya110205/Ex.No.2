@@ -212,12 +212,16 @@ o	Limitations: The responses from Perplexity lacked in-depth technical reasoning
 ![image alt](https://github.com/Ajay-Joshua-M/EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization/blob/ed8ddcd88af99254f57977b84e38e21e1a052b3f/images/Screenshot%202025-05-25%20230946.png)
 
 •	ChatGPT earned A grades in nearly every category, excelling in coherence, depth, and accuracy. Its responses were highly structured, making it a powerful tool for handling both broad and technical questions.
+
 •	Claude performed well, earning A- grades in most categories, but it occasionally lacked the necessary depth in complex technical explanations.
+
 •	Perplexity scored the lowest across the board, with B grades, indicating its struggles in handling detailed, technical content while maintaining coherence in responses.
 
 ## Overall Observations:
 •	ChatGPT demonstrated the best overall consistency in both technical depth and clarity, making it the ideal model for handling complex, technical topics like soft robotics.
+
 •	Claude provided competent responses, though sometimes falling short of ChatGPT in depth, especially for technical topics that required a more nuanced understanding of engineering concepts.
+
 •	Perplexity, while offering helpful answers, struggled the most with complexity and coherence, making it less suitable for tasks that require high-level technical reasoning or detailed explanations.
 
 ## Conclusion:
