@@ -8,10 +8,15 @@ To compare the performance, user experience, and response quality of different A
 
 ### 📊 Grading Key:
 •	A = Excellent
+
 •	B+ = Very Good
+
 •	B = Good
+
 •	C = Adequate
+
 •	D = Poor
+
 •	F = Inadequate
 
 ## Use Case: Text Summarization
@@ -19,9 +24,12 @@ To compare the performance, user experience, and response quality of different A
 
 ## 1.	Prompt Type: Zero-Shot Prompt
 Question: "Summarize the paragraph about soft robotics."
+
 🔹 ChatGPT: "Soft robotics focuses on building flexible, adaptable robots from materials like silicones and smart textiles. These robots mimic biological organisms, enhancing safety, dexterity, and adaptability. Innovations include artificial muscles, soft grippers for delicate tasks, and self-healing robots. Applications span healthcare, aerospace, and wearable technology."
 
+
 🔹 Claude: "Soft robotics is a new mechanical engineering field creating flexible robots from materials like polymers and textiles. These robots are safe for human interaction, inspired by biological systems, and useful in confined spaces. Innovations include artificial muscles and self-healing designs, with applications in healthcare, manufacturing, and aerospace."
+
 
 🔹 Perplexity: "Soft robotics is advancing mechanical engineering by using flexible materials like polymers and textiles to create adaptive robots. They mimic biological systems, making them ideal for interacting with humans and delicate objects. Key innovations include artificial muscles and untethered robots that can self-heal, impacting fields like healthcare and wearable tech."
 
@@ -41,10 +49,13 @@ Summarize this paragraph:
 “Quantum computing uses quantum bits (qubits) that can exist in multiple states simultaneously, allowing for much faster computations in specific tasks compared to traditional computers. It holds potential for breakthroughs in cryptography, material science, and optimization problems.”
 Summary:
 "Quantum computing uses qubits to enable faster computations and has promising applications in cryptography and material science."
+
 🔹 ChatGPT:
 "Soft robotics uses flexible materials like silicones and polymers to build adaptive robots that can safely interact with humans. They mimic biological forms, enabling movements like crawling and squeezing. Innovations include artificial muscles, self-healing robots, and applications in healthcare, aerospace, and wearable technology."
+
 🔹 Claude: 
 "Soft robotics focuses on building robots from flexible materials such as polymers and smart textiles, enabling safe human interaction and adaptability. They mimic biological organisms and are advancing with artificial muscles, self-healing capabilities, and uses in healthcare, food handling, and aerospace."
+
 🔹 Perplexity: 
 "Soft robotics is a mechanical engineering innovation using flexible materials to build adaptive, bioinspired robots. Developments like artificial muscles, self-healing designs, and soft grippers enable new applications in healthcare, wearables, and delicate manufacturing tasks."
 
@@ -62,16 +73,19 @@ Perplexity	B	B+	B	Includes all elements but the connections feel slightly forced
 Question: Follow the below given instructions 
 Prompt:
 "First, identify the main materials used in soft robotics. Then, describe how these robots mimic biological systems. Next, list recent innovations. Finally, summarize the paragraph about soft robotics."
+
 🔹 ChatGPT:
 •	Main materials: Flexible materials like polymers, smart textiles, and soft silicones.
 •	Mimicking biological systems: By enabling robots to crawl, squeeze, adapt shapes like living organisms.
 •	Innovations: Artificial muscles, untethered robots, self-healing capabilities.
 •	Final summary: "Soft robotics uses flexible materials to create adaptive, bioinspired robots, introducing innovations like artificial muscles and self-healing designs for healthcare, aerospace, and wearable applications."
+
 🔹 Claude:
 •	Materials: Polymers, soft textiles, other flexible substances.
 •	Biomimicry: Robots imitate movements such as squeezing and bending like living creatures.
 •	Innovations: Self-healing robots, soft grippers, untethered systems.
 •	Summary: "Soft robotics is advancing mechanical engineering with flexible robots that mimic biological systems and introduce features like artificial muscles and self-healing properties, expanding into healthcare and aerospace industries."
+
 🔹 Perplexity:
 •	Materials: Soft materials like polymers and textiles.
 •	Biomimicry: They replicate biological flexibility and adaptability.
@@ -86,8 +100,10 @@ Prompt:
 Question: Follow the below given instructions 
 Prompt:
 "You are a Mechanical Engineering Professor specializing in Robotics. Summarize the key developments in the field of soft robotics, highlighting the materials, biological inspirations, and innovations mentioned."
+
 🔹 ChatGPT : 
 "As a Mechanical Engineering Professor, I observe that soft robotics is rapidly advancing through the use of flexible materials such as polymers and smart textiles. Inspired by biological systems, these robots mimic movements like crawling and squeezing. Notable innovations include artificial muscles, self-healing materials, untethered robots, and their integration into healthcare, aerospace, and wearable technology sectors."
+
 🔹 Claude: 
 "In soft robotics, engineers use materials like polymers and soft fabrics to develop machines that mimic the movements of living organisms, such as squeezing and bending. Recent innovations such as artificial muscles, self-healing designs, and soft grippers have broadened applications into healthcare, aerospace, and food industries. The field reflects a trend towards safer and more adaptable robotic systems."
 
@@ -102,6 +118,7 @@ Prompt:
 Question: Follow the below given instructions
  Prompt:
 "First, think about what materials are required for soft robotics. Then reason about how these materials help in mimicking biological systems. Identify recent innovations mentioned. Finally, summarize everything clearly. Think step-by-step."
+
 🔹 ChatGPT:
 Step 1: Materials needed include flexible polymers, smart textiles, and soft silicone-based substances.
 Step 2: These materials allow robots to adapt shapes, move flexibly, and squeeze like biological organisms.
@@ -128,6 +145,7 @@ Final Summary: Soft robotics uses flexible materials to create machines mimickin
 Question: Follow the below given instructions
 Prompt:
 "Strictly list 5 key developments in soft robotics based on the paragraph. Do not elaborate."
+
 🔹 ChatGPT:
 1.	Use of flexible polymers and smart textiles
 2.	Development of artificial muscles
@@ -158,6 +176,7 @@ Prompt:
 Question: Follow the below given instruction
 Prompt:
 "Soft robotics is a rapidly evolving subfield of mechanical engineering, inspired by biological organisms and requiring materials that offer flexibility and resilience. Considering this context, summarize the latest material innovations and their impact on robotic capabilities."
+
 🔹 ChatGPT:
 
 "Building on the biological inspirations and need for flexibility, soft robotics has introduced materials like flexible polymers and smart textiles that enable bending, crawling, and squeezing movements. Innovations such as artificial muscles and self-healing systems have enhanced the adaptability, resilience, and autonomy of robots across healthcare, aerospace, and wearable technology fields."
